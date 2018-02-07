@@ -1,0 +1,10 @@
+body {
+  background-color: black;
+  display: red;
+  text-align: center; }
+
+.test {
+  text-align: center;
+  color: red;
+  font-size: 88px;
+  text-decoration: underline; }

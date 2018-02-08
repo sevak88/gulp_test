@@ -1,5 +1,7 @@
 body {
-  background-color: yellow; }
+  background-color: blue;
+  display: block;
+  text-align: center; }
 
 .test {
   text-align: center;
